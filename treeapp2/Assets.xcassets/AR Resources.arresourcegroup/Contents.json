@@ -1,0 +1,41 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "Book.arreferenceimage"
+    },
+    {
+      "filename" : "p03d.arreferenceimage"
+    },
+    {
+      "filename" : "p13d.arreferenceimage"
+    },
+    {
+      "filename" : "p23d.arreferenceimage"
+    },
+    {
+      "filename" : "p33d.arreferenceimage"
+    },
+    {
+      "filename" : "p43d.arreferenceimage"
+    },
+    {
+      "filename" : "p53d.arreferenceimage"
+    },
+    {
+      "filename" : "p63d.arreferenceimage"
+    },
+    {
+      "filename" : "p73d.arreferenceimage"
+    },
+    {
+      "filename" : "Snow Mountain.arreferenceimage"
+    },
+    {
+      "filename" : "Trees In the Dark.arreferenceimage"
+    }
+  ]
+}
